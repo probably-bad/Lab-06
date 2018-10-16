@@ -18,7 +18,7 @@ public class SciCalculator {
 
         while (keepRunning) {
 
-            System.out.println("Current Result: " + ans);
+            System.out.println("Current Result: " + ans); //prints out the start of the program and the menu
             System.out.println();
             System.out.println("Calculator Menu \n" +
                     "--------------- \n" +
